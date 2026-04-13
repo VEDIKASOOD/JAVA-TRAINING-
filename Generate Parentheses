@@ -1,4 +1,4 @@
-// first approch 
+// BACKTRACKING WITH MUTABLE STRING 
 
 class Solution {
     public List<String> generateParenthesis(int n) {
@@ -27,7 +27,7 @@ class Solution {
 }
 
 
-// Second Approach 
+// BACKTRACKING WITH IMMUTABLE STRING
 
 class Solution {
     public List<String> generateParenthesis(int n) {
